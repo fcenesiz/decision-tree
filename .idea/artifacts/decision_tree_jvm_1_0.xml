@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="decision-tree-jvm-1.0">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="decision-tree-jvm-1.0.jar">
+      <element id="module-output" name="decision-tree.jvmMain" />
+    </root>
+  </artifact>
+</component>
