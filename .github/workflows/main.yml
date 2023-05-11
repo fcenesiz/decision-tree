@@ -24,3 +24,7 @@ jobs:
 
     - name: Test with Gradle
       run: ./gradlew test
+      
+    - name: Run deploy.sh
+      run: ./deploy.sh
+
