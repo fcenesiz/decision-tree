@@ -2,6 +2,9 @@
 - Super Easy Usage!
 - The decision tree algorithm is a popular machine learning technique used for classification and regression analysis. It involves recursively partitioning the data based on the features to create a tree-like model of decisions and their possible consequences. The algorithm begins by selecting the most significant feature in the dataset and splitting the data based on this feature. The process is repeated for each subset of data, resulting in a tree-like structure where each internal node represents a decision based on a feature, and each leaf node represents the outcome of that decision. The tree is pruned to remove unnecessary branches, and the resulting model is used for prediction or classification of new data. The decision tree algorithm is easy to interpret and provides insight into the decision-making process, making it a valuable tool in various fields such as healthcare, finance, and engineering.
 
+[![](https://jitpack.io/v/fcenesiz/decision-tree.svg)](https://jitpack.io/#fcenesiz/decision-tree)
+
+
 Step 1. Add it in your root ``build.gradle.kts`` at the end of repositories:
 ````kotlin
 repositories {
